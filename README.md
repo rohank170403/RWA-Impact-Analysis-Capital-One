@@ -1,15 +1,15 @@
-# RWA-Impact-Analysis-Capital-One
+# RWA-Impact-Analysis-Capital-One Basel III vs. Basel III Endgame Proposal
 
-### Objective
+#### Objective
 
 The project evaluates the impact of the Basel III Endgame Proposal on Risk-Weighted Assets (RWA) for Credit, Market, Operational, and CVA risks for Capital One. Using regulatory reports, this study quantifies the changes in RWA and highlights areas of increased stringency under the proposed framework.
 
-Methodology
+#### Methodology
 Data Sources:
 
 Regulatory Reports: FR Y-9C, FFIEC 102, and FR Y-14 were leveraged for comprehensive RWA calculations.
 Historical and current RWA figures were extracted and processed for comparative analysis.
-Basel III Framework:
+#### Basel III Framework:
 
 Baseline RWAs for Credit, Market, Operational, and CVA risks were computed under the existing Basel III framework.
 Calculations adhered to standardized approaches and risk categorization.
@@ -17,12 +17,12 @@ Basel III Endgame Proposal:
 
 Proposed modifications were applied to the same datasets to evaluate changes in RWAs.
 Changes in risk weightings, capital requirements, and exposure calculations were incorporated.
-Impact Analysis:
+#### Impact Analysis:
 
 The percentage increase in RWA across various risk categories was computed.
 Trends and drivers of RWA changes were identified, emphasizing stricter requirements.
-Key Results
-Overall RWA Increase:
+#### Key Results
+#### Overall RWA Increase:
 
 The Basel III Endgame Proposal led to a notable rise in total RWA for Capital One.
 Breakdown of Increases:
