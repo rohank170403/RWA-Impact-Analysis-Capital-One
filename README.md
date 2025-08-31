@@ -24,7 +24,7 @@ The project evaluates the impact of the Basel III Endgame Proposal on Risk-Weigh
 * Overall RWA Increase:
   * The Basel III Endgame Proposal led to a notable rise in total RWA for Capital One.  
 * Breakdown of Increases:
-  *  **Credit RWA**: Increased by +10.93%, driven by stricter capital requirements for certain exposures.
+  *  **Credit RWA**: Increased by **+10.93%**, driven by stricter capital requirements for certain exposures.
    *  **Market RWA**: 
 Rose significantly by **+44%**, reflecting changes in the Standardized Approach for market risk.
     *  **Operational RWA**: Increased by **+7.36%**, primarily due to enhanced operational risk standards.
