@@ -9,7 +9,7 @@ The project evaluates the impact of the Basel III Endgame Proposal on Risk-Weigh
 
 * Regulatory Reports: FR Y-9C, FFIEC 102, and FR Y-14 were leveraged for comprehensive RWA calculations.
 
-*Historical and current RWA figures were extracted and processed for comparative analysis.
+* Historical and current RWA figures were extracted and processed for comparative analysis.
 #### Basel III Framework:
 
 Baseline RWAs for Credit, Market, Operational, and CVA risks were computed under the existing Basel III framework.
